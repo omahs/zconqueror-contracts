@@ -1,6 +1,6 @@
 //! Store struct and component management methods.
 
-// Straknet imports
+// Starknet imports
 
 use starknet::ContractAddress;
 
